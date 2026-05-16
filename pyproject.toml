@@ -1,0 +1,15 @@
+[project]
+name = "media-mix-modeling"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "arviz>=0.23.4",
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "pandas>=3.0.3",
+    "plotly>=6.7.0",
+    "pymc>=5.28.5",
+    "pymc-marketing>=0.19.4",
+    "streamlit>=1.57.0",
+]
